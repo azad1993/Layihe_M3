@@ -1,0 +1,32 @@
+.overall{
+    display: flex;
+    justify-content: center;
+    gap: 15%;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+input{
+    display: block;
+    margin-top: 10%;
+    width: 90%;
+    height: 50%;
+}
+
+button:focus{
+    background: #833AE0;
+    color:white;
+}
+.rub:focus{
+    background: #833AE0;
+    color:white;
+}
+
+.usdt:focus{
+    background: #833AE0;
+    color:white;
+}
+
