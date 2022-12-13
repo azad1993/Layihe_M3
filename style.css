@@ -15,11 +15,12 @@ input{
     width: 90%;
     height: 50%;
 }
-
-button:focus{
+.active{
     background: #833AE0;
     color:white;
 }
+
+
 .rub:focus{
     background: #833AE0;
     color:white;
